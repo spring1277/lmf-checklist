@@ -1,0 +1,162 @@
+[
+ {
+  "code": "80.603.802",
+  "type": "B",
+  "question": "비종양성 분열유도 말초혈액은 최 소한 5개의 분열중기세포를 분석하는가? 설명  없음",
+  "points": 2,
+  "guidance": "",
+  "page": 28,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.603.803",
+  "type": "B",
+  "question": "양수의 동소배양과 플라스크배양은 최소한 5개의 분열중기세포를 분석하는가? 설명  없음",
+  "points": 2,
+  "guidance": "",
+  "page": 29,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.603.804",
+  "type": "B",
+  "question": "융모 검체는 최소한 5개의 분열 중기세포를 분석하는가? 설명  없음",
+  "points": 2,
+  "guidance": "",
+  "page": 29,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.603.805",
+  "type": "B",
+  "question": "비종양성 고형조직 검체는 최소한 5개의 분열중기세포를 분석하는가? 설명  없음",
+  "points": 2,
+  "guidance": "",
+  "page": 29,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.603.806",
+  "type": "B",
+  "question": "종양성 골수/말초혈액/고형조직 검체는 가능한 20개의 분열중기세포를 분석하는가? 설명  없음",
+  "points": 2,
+  "guidance": "",
+  "page": 29,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.603.807",
+  "type": "B",
+  "question": "종양성 골수/말초혈액/고형조직검체는 가능한 두 종류 이상의 배양으로부터 얻은 슬라이 드에서 분열중기세포를 분석하는가? 설명  없음 5. 핵형분석의 수",
+  "points": 2,
+  "guidance": "",
+  "page": 29,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.604.802",
+  "type": "B",
+  "question": "비종양성 분열유도 말초혈액은 증례마다 최소한 분열중기세포 2개의 핵형 분석과 세포계마 다 적어도 1개의 핵형 분석을 시행하는가? 설명  없음",
+  "points": 2,
+  "guidance": "",
+  "page": 29,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.604.803",
+  "type": "B",
+  "question": "양수의 동소배양과 플라스크배양은 증례마다 최소한 2개의 핵형 분석과 세포계마다 적어도 1개의 핵형 분석을 시행하는가? 설명  없음",
+  "points": 2,
+  "guidance": "",
+  "page": 29,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.604.804",
+  "type": "B",
+  "question": "융모 검체는 증례마다 최소한 2개의 핵형 분석과 세포계마다 적어도 1개의 핵형 분석을 시행하는가? 설명  없음",
+  "points": 2,
+  "guidance": "",
+  "page": 30,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.604.805",
+  "type": "B",
+  "question": "비종양성 고형조직 검체는 증례마다 최소한 2개의 핵형 분석과 세포계마다 적어도 1개의 핵형 분석을 시행하는가? 설명  없음",
+  "points": 2,
+  "guidance": "",
+  "page": 30,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.604.806",
+  "type": "B",
+  "question": "종양성 골수/말초혈액/고형조직 검체는 주세포계(stemline)마다 2개의 핵형 분석과 관련된 부세포계(sideline)로부터 1개의 핵형 분석을 시행하 는가? 설명  없음 6. 염색대 해상도",
+  "points": 2,
+  "guidance": "",
+  "page": 30,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.605.802",
+  "type": "B",
+  "question": "분열유도 말초혈액을 제외한 선천성 기형의 경우, 평균 해상도가 400 염색대(band) 이상인 가? 설명  없음",
+  "points": 2,
+  "guidance": "",
+  "page": 30,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.605.803",
+  "type": "B",
+  "question": "선천성의 분열유도 말초혈액 검체에서 550 염색대의 해상도를 가지는가?",
+  "points": 2,
+  "guidance": "· 정신지체, 안면기형, 선천성기형, 반복유산 등의 임상증상를 가진 경우에는 염색체의 미세한 이상을 가질 가\n능성이 높으므로, 550 염색대의 해상도 이상에서 분석하여야 한다.\n· 실제 이러한 임상증상을 가진 환자의 염색체 슬라이드와 핵형 사진을 관찰하여 550 염색대의 해상도가 되는\n지 확인한다.",
+  "page": 30,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.605.804",
+  "type": "B",
+  "question": "염색대와 해상도의 질이 결과해석을 할 수 있을 만큼 충분히 좋은가?",
+  "points": 2,
+  "guidance": "· 다양한 검체에서 만들어진 염색체 슬라이드들과 핵형 사진들을 실제로 관찰하여 염색대와 해상도의 질을 평\n가한다.\n7. 형광제자리부합법(FISH)",
+  "page": 30,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.606.802",
+  "type": "B",
+  "question": "사용하고 있는 모든 FISH 소식자(probe)의 검증에 대한 문서화된 지침과 절차가 있는 가?",
+  "points": 4,
+  "guidance": "· 식약처 승인 소식자를 구입하여 사용하는 경우이든 검사실에서 자체적으로 디자인하고 제조한 소식자를 사용\n하는 경우이든, 사용하고 있는 모든 소식자에 대해 검증하는 문서화된 지침(probe validation/verification)\n을 가지고 있어야 한다.\n· 체외진단시약(IVD)으로 식약처 승인받은 소식자를 사용하고, 제조사가 권장하는 방법대로 검사하는 경우에는\n담당 전문의 판단 하에 소식자 검증 과정을 간소화 할 수 있다.\n· 체외진단시약(IVD)으로 승인받지는 않았으나, 소식자가 결합하는 목표좌가 확실하게 규정된 경우\n(analyte-specific reagents)에는 검사실 자체개발검사의 검증과정에 준한다.\n· FISH 소식자가 목표좌(target locus)에 정확하게 반응함을 확인하는 방법의 예로는 다음과 같은 것들이\n있다.\n설명 (1) 분열중기세포 염색체의 FISH 형광신호를 관찰하는 방법\n(2) 각 부합반응마다 정도관리좌(internal or external target)에 양성반응여부 확인\n(3) 각 소식자에 해당하는 양성검체를 사용하여 확인하는 방법\n· 참고\n1) American College of Medical Genetics. Standards and guidelines for clinical genetics labo-\nratories 2018 edition, Revised 01/2018.\n2) Clinical and Laboratory Standards Institute (CLSI). Fluorescence In Situ Hybridization\nMethods for Clinical Laboratories; Approved Guideline-Second Edition. CLSI document\nMM07-A2 (ISBN 1-56238-885-1) Clinical and Laboratory Standards Institute, 940 West\nValley Road, Suite 2500, Wayne, Pennsylvania 19087-1898 USA, 2013.",
+  "page": 31,
+  "_sec": "심사범위",
+  "_sub": null
+ },
+ {
+  "code": "80.606.803",
+  "type": "B",
+  "question": "Interphase FISH의 경우, 시그널의 정상범위(cut-off 치)가 설정되어 있고, 필요 시이 를 검증한 기록이 있는가?",
+  "points": 1,
+  "guidance": "· 양성 시그널의 cut-off치는 소식자를 신규로 도입하기 전에 설정해야 하며, 소식자의 lot가 변경될 때마다\n이를 다시 검증해야 한다.",
+  "page": 31,
+  "_sec": "심사범위",
+  "_sub": null
+ }
+]

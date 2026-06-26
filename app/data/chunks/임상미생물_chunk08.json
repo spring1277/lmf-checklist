@@ -1,0 +1,77 @@
+{
+  "field": "임상미생물",
+  "chunk": 8,
+  "total_chunks": 18,
+  "items": [
+    {
+      "code": "31.602.317",
+      "type": "B",
+      "points": 4,
+      "question": "항균제 감수성 검사 통계 자료를 적어도 1년에 한 번씩 임상의에게 제공하는가?",
+      "guidance": "직접 시행하지 않고 다른 기관에 의뢰하는 경우도 정기적으로 항균제 감수성 통계 자료를 제공해야 한다."
+    },
+    {
+      "code": "31.602.318",
+      "type": "B",
+      "points": 1,
+      "question": "매우 드물거나 일치하지 않는 감수성결과에 대한 시행 지침이 있는가?",
+      "guidance": "매우 드물거나 일치하지 않는 감수성결과를 보인 균주는 다른 방법으로 재검한다는 등의 정확성 입증을 위한 절차가 수행되어야 한다(예: imipenem 내성 Escherichia coli, ampicillin 감수성 Klebsiella spp., ampicillin 내성 Proteus mirabilis, vancomycin 내성 Staphylococcus aureus 등)."
+    },
+    {
+      "code": "31.603.311",
+      "type": "B",
+      "points": 1,
+      "question": "모든 객담에 대해서 검체의 적절성과 배양 범위를 결정하기 위해 그람염색을 하는가?",
+      "guidance": "없음"
+    },
+    {
+      "code": "31.603.312",
+      "type": "B",
+      "points": 1,
+      "question": "객담의 그람염색 결과에 따라 객담의 질을 판단하고, 배양 결과 해석을 위하여 grade를 결과지에 표시하는가?",
+      "guidance": "적절치 않은 검체는 배양하지 않기를 권장한다."
+    },
+    {
+      "code": "31.604.312",
+      "type": "B",
+      "points": 1,
+      "question": "정량배양(집락수 산정)을 시행하는가?",
+      "guidance": "없음"
+    },
+    {
+      "code": "31.604.313",
+      "type": "B",
+      "points": 1,
+      "question": "그람 양성과 음성균을 분리하고 동정할 수 있는 배지와 수기가 있는가?",
+      "guidance": "없음"
+    },
+    {
+      "code": "31.605.312",
+      "type": "B",
+      "points": 1,
+      "question": "통상 시행하고 있는 방법으로 설사 환자의 변에서 병원체를 분리하고 동정할 수 있는가?",
+      "guidance": "없음"
+    },
+    {
+      "code": "31.605.313",
+      "type": "B",
+      "points": 1,
+      "question": "변 배양 검사를 위해서 변 채취 시기와 그 횟수에 대해 정해진 기준이 있는가?",
+      "guidance": "다음과 같은 기준이 필요하다.\n(1) 한 환자에 대하여 3번 이상 의뢰하지 않는다.\n(2) Consultation없이 입원 3일 이후에 의뢰하지 않는다.\n(3) Clostridioides difficile 독소시험은 항균제 치료 경력이 있고 설사증상이 있는 생후 6개월 이상의 환자에서 시행한다."
+    },
+    {
+      "code": "31.605.314",
+      "type": "B",
+      "points": 1,
+      "question": "변 배양 결과지에는 배양을 목적으로 하는 세균 명이 명시되어 있고 그 결과가 기록되는가?",
+      "guidance": "변 배양 결과지에는 \"No enteric pathogens isolated\" 대신 \"No Salmonella, Shigella, or Campylobacter, etc, isolated\" 라고 명시되어야 한다."
+    },
+    {
+      "code": "31.605.315",
+      "type": "B",
+      "points": 1,
+      "question": "변 배양 검사를 위해서 증균 혹은 선택배지를 사용하는가?",
+      "guidance": "무증상 보균자의 검출을 위해 사용해야 한다."
+    }
+  ]
+}

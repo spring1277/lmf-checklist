@@ -1,0 +1,401 @@
+[
+ {
+  "field": "검사실운영",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/검사실운영__0.json",
+  "out": "data/enhanced/_parts/검사실운영__0.json"
+ },
+ {
+  "field": "검사실운영",
+  "chunk": 1,
+  "n": 25,
+  "in": "data/_gen/parts/검사실운영__1.json",
+  "out": "data/enhanced/_parts/검사실운영__1.json"
+ },
+ {
+  "field": "검사실운영",
+  "chunk": 2,
+  "n": 25,
+  "in": "data/_gen/parts/검사실운영__2.json",
+  "out": "data/enhanced/_parts/검사실운영__2.json"
+ },
+ {
+  "field": "검사실운영",
+  "chunk": 3,
+  "n": 25,
+  "in": "data/_gen/parts/검사실운영__3.json",
+  "out": "data/enhanced/_parts/검사실운영__3.json"
+ },
+ {
+  "field": "검사실운영",
+  "chunk": 4,
+  "n": 25,
+  "in": "data/_gen/parts/검사실운영__4.json",
+  "out": "data/enhanced/_parts/검사실운영__4.json"
+ },
+ {
+  "field": "검사실운영",
+  "chunk": 5,
+  "n": 25,
+  "in": "data/_gen/parts/검사실운영__5.json",
+  "out": "data/enhanced/_parts/검사실운영__5.json"
+ },
+ {
+  "field": "검사실운영",
+  "chunk": 6,
+  "n": 24,
+  "in": "data/_gen/parts/검사실운영__6.json",
+  "out": "data/enhanced/_parts/검사실운영__6.json"
+ },
+ {
+  "field": "현장검사",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/현장검사__0.json",
+  "out": "data/enhanced/_parts/현장검사__0.json"
+ },
+ {
+  "field": "현장검사",
+  "chunk": 1,
+  "n": 16,
+  "in": "data/_gen/parts/현장검사__1.json",
+  "out": "data/enhanced/_parts/현장검사__1.json"
+ },
+ {
+  "field": "수탁검사",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/수탁검사__0.json",
+  "out": "data/enhanced/_parts/수탁검사__0.json"
+ },
+ {
+  "field": "수탁검사",
+  "chunk": 1,
+  "n": 25,
+  "in": "data/_gen/parts/수탁검사__1.json",
+  "out": "data/enhanced/_parts/수탁검사__1.json"
+ },
+ {
+  "field": "수탁검사",
+  "chunk": 2,
+  "n": 1,
+  "in": "data/_gen/parts/수탁검사__2.json",
+  "out": "data/enhanced/_parts/수탁검사__2.json"
+ },
+ {
+  "field": "진단혈액",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/진단혈액__0.json",
+  "out": "data/enhanced/_parts/진단혈액__0.json"
+ },
+ {
+  "field": "진단혈액",
+  "chunk": 1,
+  "n": 25,
+  "in": "data/_gen/parts/진단혈액__1.json",
+  "out": "data/enhanced/_parts/진단혈액__1.json"
+ },
+ {
+  "field": "진단혈액",
+  "chunk": 2,
+  "n": 25,
+  "in": "data/_gen/parts/진단혈액__2.json",
+  "out": "data/enhanced/_parts/진단혈액__2.json"
+ },
+ {
+  "field": "진단혈액",
+  "chunk": 3,
+  "n": 16,
+  "in": "data/_gen/parts/진단혈액__3.json",
+  "out": "data/enhanced/_parts/진단혈액__3.json"
+ },
+ {
+  "field": "요경검학",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/요경검학__0.json",
+  "out": "data/enhanced/_parts/요경검학__0.json"
+ },
+ {
+  "field": "요경검학",
+  "chunk": 1,
+  "n": 25,
+  "in": "data/_gen/parts/요경검학__1.json",
+  "out": "data/enhanced/_parts/요경검학__1.json"
+ },
+ {
+  "field": "요경검학",
+  "chunk": 2,
+  "n": 25,
+  "in": "data/_gen/parts/요경검학__2.json",
+  "out": "data/enhanced/_parts/요경검학__2.json"
+ },
+ {
+  "field": "요경검학",
+  "chunk": 3,
+  "n": 2,
+  "in": "data/_gen/parts/요경검학__3.json",
+  "out": "data/enhanced/_parts/요경검학__3.json"
+ },
+ {
+  "field": "임상미생물",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/임상미생물__0.json",
+  "out": "data/enhanced/_parts/임상미생물__0.json"
+ },
+ {
+  "field": "임상미생물",
+  "chunk": 1,
+  "n": 25,
+  "in": "data/_gen/parts/임상미생물__1.json",
+  "out": "data/enhanced/_parts/임상미생물__1.json"
+ },
+ {
+  "field": "임상미생물",
+  "chunk": 2,
+  "n": 25,
+  "in": "data/_gen/parts/임상미생물__2.json",
+  "out": "data/enhanced/_parts/임상미생물__2.json"
+ },
+ {
+  "field": "임상미생물",
+  "chunk": 3,
+  "n": 25,
+  "in": "data/_gen/parts/임상미생물__3.json",
+  "out": "data/enhanced/_parts/임상미생물__3.json"
+ },
+ {
+  "field": "임상미생물",
+  "chunk": 4,
+  "n": 25,
+  "in": "data/_gen/parts/임상미생물__4.json",
+  "out": "data/enhanced/_parts/임상미생물__4.json"
+ },
+ {
+  "field": "임상미생물",
+  "chunk": 5,
+  "n": 25,
+  "in": "data/_gen/parts/임상미생물__5.json",
+  "out": "data/enhanced/_parts/임상미생물__5.json"
+ },
+ {
+  "field": "임상미생물",
+  "chunk": 6,
+  "n": 25,
+  "in": "data/_gen/parts/임상미생물__6.json",
+  "out": "data/enhanced/_parts/임상미생물__6.json"
+ },
+ {
+  "field": "임상미생물",
+  "chunk": 7,
+  "n": 1,
+  "in": "data/_gen/parts/임상미생물__7.json",
+  "out": "data/enhanced/_parts/임상미생물__7.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__0.json",
+  "out": "data/enhanced/_parts/수혈의학__0.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 1,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__1.json",
+  "out": "data/enhanced/_parts/수혈의학__1.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 2,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__2.json",
+  "out": "data/enhanced/_parts/수혈의학__2.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 3,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__3.json",
+  "out": "data/enhanced/_parts/수혈의학__3.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 4,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__4.json",
+  "out": "data/enhanced/_parts/수혈의학__4.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 5,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__5.json",
+  "out": "data/enhanced/_parts/수혈의학__5.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 6,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__6.json",
+  "out": "data/enhanced/_parts/수혈의학__6.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 7,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__7.json",
+  "out": "data/enhanced/_parts/수혈의학__7.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 8,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__8.json",
+  "out": "data/enhanced/_parts/수혈의학__8.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 9,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__9.json",
+  "out": "data/enhanced/_parts/수혈의학__9.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 10,
+  "n": 25,
+  "in": "data/_gen/parts/수혈의학__10.json",
+  "out": "data/enhanced/_parts/수혈의학__10.json"
+ },
+ {
+  "field": "수혈의학",
+  "chunk": 11,
+  "n": 4,
+  "in": "data/_gen/parts/수혈의학__11.json",
+  "out": "data/enhanced/_parts/수혈의학__11.json"
+ },
+ {
+  "field": "진단면역",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/진단면역__0.json",
+  "out": "data/enhanced/_parts/진단면역__0.json"
+ },
+ {
+  "field": "진단면역",
+  "chunk": 1,
+  "n": 25,
+  "in": "data/_gen/parts/진단면역__1.json",
+  "out": "data/enhanced/_parts/진단면역__1.json"
+ },
+ {
+  "field": "진단면역",
+  "chunk": 2,
+  "n": 14,
+  "in": "data/_gen/parts/진단면역__2.json",
+  "out": "data/enhanced/_parts/진단면역__2.json"
+ },
+ {
+  "field": "유세포검사",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/유세포검사__0.json",
+  "out": "data/enhanced/_parts/유세포검사__0.json"
+ },
+ {
+  "field": "유세포검사",
+  "chunk": 1,
+  "n": 25,
+  "in": "data/_gen/parts/유세포검사__1.json",
+  "out": "data/enhanced/_parts/유세포검사__1.json"
+ },
+ {
+  "field": "유세포검사",
+  "chunk": 2,
+  "n": 25,
+  "in": "data/_gen/parts/유세포검사__2.json",
+  "out": "data/enhanced/_parts/유세포검사__2.json"
+ },
+ {
+  "field": "유세포검사",
+  "chunk": 3,
+  "n": 25,
+  "in": "data/_gen/parts/유세포검사__3.json",
+  "out": "data/enhanced/_parts/유세포검사__3.json"
+ },
+ {
+  "field": "조직적합성검사",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/조직적합성검사__0.json",
+  "out": "data/enhanced/_parts/조직적합성검사__0.json"
+ },
+ {
+  "field": "조직적합성검사",
+  "chunk": 1,
+  "n": 25,
+  "in": "data/_gen/parts/조직적합성검사__1.json",
+  "out": "data/enhanced/_parts/조직적합성검사__1.json"
+ },
+ {
+  "field": "조직적합성검사",
+  "chunk": 2,
+  "n": 25,
+  "in": "data/_gen/parts/조직적합성검사__2.json",
+  "out": "data/enhanced/_parts/조직적합성검사__2.json"
+ },
+ {
+  "field": "조직적합성검사",
+  "chunk": 3,
+  "n": 24,
+  "in": "data/_gen/parts/조직적합성검사__3.json",
+  "out": "data/enhanced/_parts/조직적합성검사__3.json"
+ },
+ {
+  "field": "세포유전검사",
+  "chunk": 0,
+  "n": 20,
+  "in": "data/_gen/parts/세포유전검사__0.json",
+  "out": "data/enhanced/_parts/세포유전검사__0.json"
+ },
+ {
+  "field": "분자진단검사",
+  "chunk": 0,
+  "n": 25,
+  "in": "data/_gen/parts/분자진단검사__0.json",
+  "out": "data/enhanced/_parts/분자진단검사__0.json"
+ },
+ {
+  "field": "분자진단검사",
+  "chunk": 1,
+  "n": 25,
+  "in": "data/_gen/parts/분자진단검사__1.json",
+  "out": "data/enhanced/_parts/분자진단검사__1.json"
+ },
+ {
+  "field": "분자진단검사",
+  "chunk": 2,
+  "n": 25,
+  "in": "data/_gen/parts/분자진단검사__2.json",
+  "out": "data/enhanced/_parts/분자진단검사__2.json"
+ },
+ {
+  "field": "분자진단검사",
+  "chunk": 3,
+  "n": 25,
+  "in": "data/_gen/parts/분자진단검사__3.json",
+  "out": "data/enhanced/_parts/분자진단검사__3.json"
+ },
+ {
+  "field": "분자진단검사",
+  "chunk": 4,
+  "n": 21,
+  "in": "data/_gen/parts/분자진단검사__4.json",
+  "out": "data/enhanced/_parts/분자진단검사__4.json"
+ }
+]

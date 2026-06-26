@@ -1,0 +1,233 @@
+{
+  "title": "LMF 인증심사 점검표 준비",
+  "years": [
+    2026,
+    2025
+  ],
+  "fields": [
+    {
+      "name": "검사실운영",
+      "group": "공통",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/검사실운영.pdf",
+          "json": "data/checklists/2026_검사실운영.json",
+          "structured": true,
+          "itemCount": 176
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/검사실운영.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "종합검증",
+      "group": "공통",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/종합검증.pdf",
+          "json": "data/checklists/2026_종합검증.json",
+          "structured": true,
+          "itemCount": 19
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/종합검증.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "현장검사",
+      "group": "공통",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/현장검사.pdf",
+          "json": "data/checklists/2026_현장검사.json",
+          "structured": true,
+          "itemCount": 41
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/현장검사.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "수탁검사",
+      "group": "공통",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/수탁검사.pdf",
+          "json": "data/checklists/2026_수탁검사.json",
+          "structured": true,
+          "itemCount": 51
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/수탁검사.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "진단혈액",
+      "group": "전문분야",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/진단혈액.pdf",
+          "json": "data/checklists/2026_진단혈액.json",
+          "structured": true,
+          "itemCount": 91
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/진단혈액.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "임상화학",
+      "group": "전문분야",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/임상화학.pdf",
+          "json": "data/checklists/2026_임상화학.json",
+          "structured": true,
+          "itemCount": 41
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/임상화학.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "요경검학",
+      "group": "전문분야",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/요경검학.pdf",
+          "json": "data/checklists/2026_요경검학.json",
+          "structured": true,
+          "itemCount": 77
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/요경검학.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "임상미생물",
+      "group": "전문분야",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/임상미생물.pdf",
+          "json": "data/checklists/2026_임상미생물.json",
+          "structured": true,
+          "itemCount": 176
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/임상미생물.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "수혈의학",
+      "group": "전문분야",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/수혈의학.pdf",
+          "json": "data/checklists/2026_수혈의학.json",
+          "structured": true,
+          "itemCount": 281
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/수혈의학.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "진단면역",
+      "group": "전문분야",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/진단면역.pdf",
+          "json": "data/checklists/2026_진단면역.json",
+          "structured": true,
+          "itemCount": 64
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/진단면역.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "유세포검사",
+      "group": "전문분야",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/유세포검사.pdf",
+          "json": "data/checklists/2026_유세포검사.json",
+          "structured": true,
+          "itemCount": 100
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/유세포검사.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "조직적합성검사",
+      "group": "전문분야",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/조직적합성검사.pdf",
+          "json": "data/checklists/2026_조직적합성검사.json",
+          "structured": true,
+          "itemCount": 99
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/조직적합성검사.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "세포유전검사",
+      "group": "전문분야",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/세포유전검사.pdf",
+          "json": "data/checklists/2026_세포유전검사.json",
+          "structured": true,
+          "itemCount": 113
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/세포유전검사.pdf",
+          "structured": false
+        }
+      }
+    },
+    {
+      "name": "분자진단검사",
+      "group": "전문분야",
+      "years": {
+        "2026": {
+          "pdf": "data/pdf/2026/분자진단검사.pdf",
+          "json": "data/checklists/2026_분자진단검사.json",
+          "structured": true,
+          "itemCount": 121
+        },
+        "2025": {
+          "pdf": "data/pdf/2025/분자진단검사.pdf",
+          "structured": false
+        }
+      }
+    }
+  ]
+}

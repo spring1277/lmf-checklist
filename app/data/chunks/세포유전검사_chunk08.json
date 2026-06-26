@@ -1,0 +1,77 @@
+{
+  "field": "세포유전검사",
+  "chunk": 8,
+  "total_chunks": 12,
+  "items": [
+    {
+      "code": "80.605.803",
+      "type": "B",
+      "points": 2,
+      "question": "선천성의 분열유도 말초혈액 검체에서 550 염색대의 해상도를 가지는가?",
+      "guidance": "· 정신지체, 안면기형, 선천성기형, 반복유산 등의 임상증상를 가진 경우에는 염색체의 미세한 이상을 가질 가\n능성이 높으므로, 550 염색대의 해상도 이상에서 분석하여야 한다.\n· 실제 이러한 임상증상을 가진 환자의 염색체 슬라이드와 핵형 사진을 관찰하여 550 염색대의 해상도가 되는\n지 확인한다."
+    },
+    {
+      "code": "80.605.804",
+      "type": "B",
+      "points": 2,
+      "question": "염색대와 해상도의 질이 결과해석을 할 수 있을 만큼 충분히 좋은가?",
+      "guidance": "· 다양한 검체에서 만들어진 염색체 슬라이드들과 핵형 사진들을 실제로 관찰하여 염색대와 해상도의 질을 평\n가한다.\n7. 형광제자리부합법(FISH)"
+    },
+    {
+      "code": "80.606.802",
+      "type": "B",
+      "points": 4,
+      "question": "사용하고 있는 모든 FISH 소식자(probe)의 검증에 대한 문서화된 지침과 절차가 있는 가?",
+      "guidance": "· 식약처 승인 소식자를 구입하여 사용하는 경우이든 검사실에서 자체적으로 디자인하고 제조한 소식자를 사용\n하는 경우이든, 사용하고 있는 모든 소식자에 대해 검증하는 문서화된 지침(probe validation/verification)\n을 가지고 있어야 한다.\n· 체외진단시약(IVD)으로 식약처 승인받은 소식자를 사용하고, 제조사가 권장하는 방법대로 검사하는 경우에는\n담당 전문의 판단 하에 소식자 검증 과정을 간소화 할 수 있다.\n· 체외진단시약(IVD)으로 승인받지는 않았으나, 소식자가 결합하는 목표좌가 확실하게 규정된 경우\n(analyte-specific reagents)에는 검사실 자체개발검사의 검증과정에 준한다.\n· FISH 소식자가 목표좌(target locus)에 정확하게 반응함을 확인하는 방법의 예로는 다음과 같은 것들이\n있다.\n설명 (1) 분열중기세포 염색체의 FISH 형광신호를 관찰하는 방법\n(2) 각 부합반응마다 정도관리좌(internal or external tar"
+    },
+    {
+      "code": "80.606.803",
+      "type": "B",
+      "points": 1,
+      "question": "Interphase FISH의 경우, 시그널의 정상범위(cut-off 치)가 설정되어 있고, 필요 시이 를 검증한 기록이 있는가?",
+      "guidance": "· 양성 시그널의 cut-off치는 소식자를 신규로 도입하기 전에 설정해야 하며, 소식자의 lot가 변경될 때마다\n이를 다시 검증해야 한다."
+    },
+    {
+      "code": "80.606.804",
+      "type": "B",
+      "points": 1,
+      "question": "FISH 결과를 평가하는 세포 수와 방법이 기록되어 있는가? 설명  없음",
+      "guidance": ""
+    },
+    {
+      "code": "80.606.805",
+      "type": "B",
+      "points": 2,
+      "question": "각각의 FISH 분석을 위해 기록된 방법에 따라 평가한 FISH 결과를 보관하는가? 설명  없음",
+      "guidance": ""
+    },
+    {
+      "code": "80.606.806",
+      "type": "B",
+      "points": 2,
+      "question": "각각의 FISH 분석을 위해 정도관 리 좌(control locus)를 사용하고 그 결과를 기록하는가?",
+      "guidance": "· Hybridization control, internal control 혹은 external control 등이 사용될 수 있다.\n설명  분석시스템 내에 포함된 정도관리 방법(electronic/procedural/built-in 등)을 사용하고 있고 이 방법이 내\n부정도관리 목적에 충분하다면, 담당 전문의의 판단 하에 사용할 수 있다."
+    },
+    {
+      "code": "80.606.807",
+      "type": "B",
+      "points": 2,
+      "question": "각 증례마다 FISH 결과에 대한 사진이나 디지털 화상을 만들고 보관하는가? 설명  없음",
+      "guidance": ""
+    },
+    {
+      "code": "80.606.808",
+      "type": "B",
+      "points": 2,
+      "question": "최종 보고서에는 최근의 FISH 명명 국제규약(International System for HumanCytogenomic Nomenclature, ISCN)에 따라 FISH 결과를 정확히 기술하는가? 설명  없음",
+      "guidance": ""
+    },
+    {
+      "code": "80.606.809",
+      "type": "B",
+      "points": 2,
+      "question": "최종보고서에는 결과의 요약 및임상정보와 FISH 결과에 관련된 해석적 보고 (interpretive report)가 포함되어 있는가?",
+      "guidance": "· 최종 보고서의 결과를 요약하고 FISH 결과를 임상정보 및 이전 검사와 관련지어 해석한 내용이 포함되어 있\n설명 어야 한다. 이러한 해석적 보고는 임상의에게도 분명히 전달될 수 있는 내용이어야 한다.\n· FISH 결과는 American College of Medical Genetics guideline을 참고하여 해석할 수 있다."
+    }
+  ]
+}

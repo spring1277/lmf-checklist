@@ -1,0 +1,77 @@
+{
+  "field": "임상미생물",
+  "chunk": 7,
+  "total_chunks": 18,
+  "items": [
+    {
+      "code": "31.301.644",
+      "type": "B",
+      "points": 8,
+      "question": "항균제 감수성 검사(디스크법 혹은 자동화기를 이용한 희석법)시 매주 혹은 항균제와 배지의 lot가 바뀔 때 표준균주를 이용하여 정도관리를 시행하고 있는가?",
+      "guidance": "없음"
+    },
+    {
+      "code": "31.301.648",
+      "type": "B",
+      "points": 1,
+      "question": "모든 혐기성 배양 시스템(bag, jar, chamber)은 methylene blue 등의 화학적지시제 혹은 혐기성 세균 등의 방법을 이용하여 점검하는가?",
+      "guidance": "없음"
+    },
+    {
+      "code": "31.334.050",
+      "type": "B",
+      "points": 1,
+      "question": "적절한 그람 염색 지침을 가지고 있는가?",
+      "guidance": "그람 염색이 예비진단에 도움이 되는 정보를 줄 수 있어야 한다.\n그람 염색 결과는 배양 결과와 비교 확인되어야 한다."
+    },
+    {
+      "code": "31.334.060",
+      "type": "B",
+      "points": 2,
+      "question": "그람 염색은 매일 혹은 매 검사일 및 시약 lot 번호 변경 시 양성과 음성 정도관리 균주로 점검하는가?",
+      "guidance": "매 검사시의 기록이 있어야 한다."
+    },
+    {
+      "code": "31.334.080",
+      "type": "B",
+      "points": 1,
+      "question": "모든 세균검사용 염색(그람염색과 형광 염색을 제외한 일반 세균용 염색)은 사용하는 날마다 혹은 1주일에 1회 양성 및 음성 반응도를 점검하는가?",
+      "guidance": "없음"
+    },
+    {
+      "code": "31.601.010",
+      "type": "B",
+      "points": 4,
+      "question": "매년 변경된 균종명을 검토하고 검사 결과에 반영하는 기준이 있는가?",
+      "guidance": "변경된 균종명은 ICNP(International Code of Nomenclature of Prokaryotes)나 LPSN(List of Prokaryotic names with Standing in Nomenclature, https://lpsn.dsmz.de/) 등의 신뢰할 수 있는 근거에 따라 매년 변경된 균종명을 검토하며, 결과 보고에 반영할지를 결정하는 절차와 이에 대한 근거가 있어야 한다."
+    },
+    {
+      "code": "31.602.311",
+      "type": "B",
+      "points": 1,
+      "question": "균종에 따른 항균제의 수와 종류에 대한 기준이 있는가?",
+      "guidance": "국제적인 표준(예, CLSI)에 따른다.\n매년 개정된 표준을 검토하여 필요한 경우 이를 검사실 지침에 반영하여야 한다."
+    },
+    {
+      "code": "31.602.314",
+      "type": "B",
+      "points": 1,
+      "question": "항균제 감수성 검사시 판정 방법에 대한 기준이 문서화되어 있는가?",
+      "guidance": "없음"
+    },
+    {
+      "code": "31.602.315",
+      "type": "B",
+      "points": 1,
+      "question": "항균제 검사를 위한 균 접종시 접종농도에 대한 기준이 있는가?",
+      "guidance": "없음"
+    },
+    {
+      "code": "31.602.316",
+      "type": "B",
+      "points": 1,
+      "question": "항균제 감수성 검사를 위하여 한 개의 분리 집락이나 순수 배양만을 사용하는가?",
+      "guidance": "없음"
+    }
+  ]
+}

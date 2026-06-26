@@ -1,0 +1,77 @@
+{
+  "field": "임상미생물",
+  "chunk": 15,
+  "total_chunks": 18,
+  "items": [
+    {
+      "code": "35.332.100",
+      "type": "B",
+      "points": 2,
+      "question": "배지는 lot 마다 무균상태와 성능을 점검하는가?",
+      "guidance": "멸균 후 배지에 첨가물을 넣었으면 무균 여부를 다시 검사해야 한다.\n상품화된 배지를 사용할 때는 배지 공급회사에서 배지 제조시 표준방법을 따른다는 증거와 무균성 자료를 받아두어야 한다."
+    },
+    {
+      "code": "35.332.300",
+      "type": "B",
+      "points": 1,
+      "question": "Continuous cell line은 mycoplasma 오염을 정기적으로 점검하는가?",
+      "guidance": "상품화된 배지를 사용할 때는 배지 공급회사에서 배지 제조 시 표준방법의 기준을 따른다는 증거를 받아두어야 한다.\n상품화된 'Ready cells'을 사용할 경우 세포주 공급회사에서 실시한 mycoplasma 오염 여부 선별검사 기록을 확인하고 자료를 받아두어야 한다."
+    },
+    {
+      "code": "35.332.310",
+      "type": "B",
+      "points": 1,
+      "question": "세포배양배지로 동물의 혈청을 사용할 경우 세포에 대한 독성 유무를 검사하는가?",
+      "guidance": "상품화된 배지를 사용할 때는 배지 공급회사에서 배지 제조 시 표준방법의 기준을 따른다는 증거와 동물 혈청의 세포독성 검사 기록을 확인하고 자료를 받아두어야 한다."
+    },
+    {
+      "code": "35.332.320",
+      "type": "B",
+      "points": 1,
+      "question": "검사실에서는 바이러스 배양검사를 위한 최소한의 세포주를 가지고 있는가?",
+      "guidance": "상품화된 배지를 사용할 때는 배지 공급회사에서 배지 제조 시 표준방법의 기준을 따른다는 증거와 동물 혈청의 세포독성 검사 기록을 확인하고 자료를 받아두어야 한다.\nChlamydia / McCoy or Buffalo Green Monkey Kidney\nHerpes simplex / HDF, Rabbit Kidney, or A549\nVaricella zoster / HDF, Primary Monkey Kidney\nInfluenza / Primary Monkey Kidney or MDCK\nParainfluenza / Primary Monkey Kidney\nRSV / HEp-2 or Primary Monkey Kidney\nEnteroviruses / Primary Monkey Kidney, HDF, RD\nAdenoviruses / HEp-2, Human Embryonic Kidney, or A549\nCMV / HDF"
+    },
+    {
+      "code": "35.332.330",
+      "type": "B",
+      "points": 1,
+      "question": "시험관 단일층(tube monolayer) 배양은 바이러스를 검출할 수 있을 정도의 충분한 시간 동안 배양하는가?",
+      "guidance": "Herpes simplex (genital) / 5 days\nHerpes simplex (other) / 7 days\nRespiratory viruses / 10 days\nOther viruses / 14 days\nShell vial은 시험관 단일층 배양에 해당되지 않으며 24~48시간 배양이면 충분하다. 단, 이보다 배양기간을 단축할 경우에는 이에 대한 근거자료를 갖고 있어야 한다."
+    },
+    {
+      "code": "35.332.340",
+      "type": "B",
+      "points": 1,
+      "question": "세포배양에 사용되는 튜브, 플라스크, shell vial, 플레이트 등은 입고시 깨짐이 없는지 확인하는가?",
+      "guidance": "육안으로 관찰하고 기록을 남겨야 한다."
+    },
+    {
+      "code": "35.601.351",
+      "type": "B",
+      "points": 1,
+      "question": "바이러스 배양에 이용되는 세포 종류, passage number, source와 배지에 대한 기록을 가지고 있는가?",
+      "guidance": "상품화된 'Ready cells'을 사용할 경우 세포주 공급 회사의 세포 종류, passage number, source에 대한 설명서를 받아두어야 한다."
+    },
+    {
+      "code": "35.601.352",
+      "type": "B",
+      "points": 1,
+      "question": "배양 첫 2주 동안은 cytopathic effect를 보기 위해 적어도 이틀에 한 번씩 관찰하는가?",
+      "guidance": "추가적인 방법(shell vial, 항원검출 등)을 이용할 경우에는 관찰기간의 변경이 가능하다."
+    },
+    {
+      "code": "35.601.353",
+      "type": "B",
+      "points": 1,
+      "question": "각 배양 튜브에 대해서 바이러스 접종을 안한 음성 대조를 세우는가?",
+      "guidance": "없음"
+    },
+    {
+      "code": "35.601.354",
+      "type": "B",
+      "points": 1,
+      "question": "배지와 희석액의 무균성과 pH를 점검하는가?",
+      "guidance": "상품화된 배지를 사용할 때는 배지 공급회사에서 배지 제조시 표준방법의 기준을 따른다는 증거를 받아두어야 한다."
+    }
+  ]
+}

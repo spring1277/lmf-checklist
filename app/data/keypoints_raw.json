@@ -1,0 +1,627 @@
+{
+  "c_items": [
+    {
+      "field": "검사실운영",
+      "section": "심사범위",
+      "subsection": "심사범위",
+      "code": "01.010.020",
+      "type": "C",
+      "points": 0,
+      "question": "검사실에서 시행하는 모든 검사 분야에 대해 인증 심사를 받는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "심사범위",
+      "subsection": "심사범위",
+      "code": "01.010.040",
+      "type": "C",
+      "points": 0,
+      "question": "주 검사실과 분리된 별도의 검사실을 가진 경우도 각 세부분야별로 심사가 진행되는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "인력",
+      "subsection": "전문의",
+      "code": "01.702.020",
+      "type": "C",
+      "points": 0,
+      "question": "검사실 과장은 진단검사의학과 전문의인가?"
+    },
+    {
+      "field": "수혈의학",
+      "section": "수혈의학[공통] 인력",
+      "subsection": "전문의",
+      "code": "40.702.022",
+      "type": "C",
+      "points": 0,
+      "question": "수혈의학[공통] 검사실은 진단검사의학과 전문의가 관장하고 있는가?"
+    },
+    {
+      "field": "요경검학",
+      "section": "인력",
+      "subsection": "전문의",
+      "code": "23.702.022",
+      "type": "C",
+      "points": 0,
+      "question": "임상화학[요경검학] 검사실은 진단검사의학과 전문의가 관장하고 있는가?"
+    },
+    {
+      "field": "유세포검사",
+      "section": "인력",
+      "subsection": "전문의",
+      "code": "60.702.022",
+      "type": "C",
+      "points": 0,
+      "question": "유세포검사 검사실은 진단검사의학과 전문의가 관장하고 있는가?"
+    },
+    {
+      "field": "임상미생물",
+      "section": "인력",
+      "subsection": "전문의",
+      "code": "30.702.022",
+      "type": "C",
+      "points": 0,
+      "question": "임상미생물[공통] 검사실은 진단검사의학과 전문의가 관장하고 있는가?"
+    },
+    {
+      "field": "종합검증",
+      "section": "심사범위",
+      "subsection": "심사범위",
+      "code": "07.010.020",
+      "type": "C",
+      "points": 0,
+      "question": "검사실에서 시행하는 모든 검사 분야에 대해 인증 심사를 받는가?"
+    },
+    {
+      "field": "종합검증",
+      "section": "심사범위",
+      "subsection": "심사범위",
+      "code": "07.010.040",
+      "type": "C",
+      "points": 0,
+      "question": "주 검사실과 분리된 별도의 검사실을 가진 경우도 각 세부분야별로 심사가 진행되는가?"
+    }
+  ],
+  "high_items": [
+    {
+      "field": "검사실운영",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "01.300.420",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "분자진단검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "90.301.211",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로 그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "세포유전검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "80.301.211",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프아니 로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "수탁검사",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "09.300.180",
+      "type": "B",
+      "points": 24,
+      "question": "대한진단검사정도관리협회의 외부정도관리 결과는 만족스러운가?"
+    },
+    {
+      "field": "수탁검사",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "09.300.420",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "수탁검사",
+      "section": "인력",
+      "subsection": "전문의",
+      "code": "09.702.221",
+      "type": "B",
+      "points": 24,
+      "question": "각 분야별로 적정수의 전문의가 상근하고 있는가?"
+    },
+    {
+      "field": "수혈의학",
+      "section": "수혈의학[공통] 질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "40.301.211",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "요경검학",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "23.301.211",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "유세포검사",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "60.301.211",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "임상미생물",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "30.301.211",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "임상화학",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "21.301.211",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "조직적합성검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "70.301.211",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "종합검증",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "07.300.420",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "진단면역",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "50.301.211",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로 그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "진단혈액",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "10.301.211",
+      "type": "R",
+      "points": 24,
+      "question": "검사실은 정확한 검사를 위하여 내부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "심사범위",
+      "subsection": "심사범위",
+      "code": "01.010.070",
+      "type": "B",
+      "points": 16,
+      "question": "위탁기관은 '검체검사위탁에 관한 기준'을 준수하는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "질관리: 일반",
+      "subsection": "질관리 일반",
+      "code": "01.201.020",
+      "type": "B",
+      "points": 16,
+      "question": "검사실은 지속적 질향상 프로그램(continuous quality improvement program, CQI)이 있는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "01.300.121",
+      "type": "R",
+      "points": 16,
+      "question": "검사실은 정확한 검사를 위하여 외부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "질관리: 검사전후단계",
+      "subsection": "검사결과 보고",
+      "code": "01.405.040",
+      "type": "B",
+      "points": 16,
+      "question": "모든 검사에 대한 turnaround time (TAT)의 한계가 정해져 있고, 정기적인 검토를 하는가?"
+    },
+    {
+      "field": "분자진단검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "90.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외 부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "분자진단검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "90.301.420",
+      "type": "B",
+      "points": 16,
+      "question": "동일 검사에 대하여 서로 다른방법이나 두 대 이상의 기기로 검사를 시행하는 경우 주 기적으로 검사결과를 비교 평가하는가?"
+    },
+    {
+      "field": "분자진단검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "90.405.040",
+      "type": "B",
+      "points": 16,
+      "question": "모든 검사에 대한 turnaround time (TAT)의 한 계가 정해져 있고, 정기적인 검토를 하는가?"
+    },
+    {
+      "field": "세포유전검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "80.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외 부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "세포유전검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "80.405.040",
+      "type": "B",
+      "points": 16,
+      "question": "모든 검사에 대한 turnaround time (TAT)의 한 계가 정해져 있고, 정기적인 검토를 하는가?"
+    },
+    {
+      "field": "수탁검사",
+      "section": "심사범위",
+      "subsection": "심사범위",
+      "code": "09.010.070",
+      "type": "B",
+      "points": 16,
+      "question": "수탁기관은 “검체검사위탁에 관한 기준”을 준수하는가?"
+    },
+    {
+      "field": "수탁검사",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "09.300.121",
+      "type": "R",
+      "points": 16,
+      "question": "검사실은 정확한 검사를 위하여 외부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "수탁검사",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "09.300.340",
+      "type": "B",
+      "points": 16,
+      "question": "검사기관에서 실시하고 있는 모든 해당 검사분야에 대하여 대한진단검사의학회/진단검사의학재단에서 주관하는 우수검사실 인증사업에 참여하고 있는가?"
+    },
+    {
+      "field": "수혈의학",
+      "section": "수혈의학[공통] 질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "40.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "수혈의학",
+      "section": "수혈의학[공통] 질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "40.301.420",
+      "type": "B",
+      "points": 16,
+      "question": "동일 검사에 대하여 서로 다른 방법이나 두 대 이상의 기기로 검사를 시행하는 경우 주기적으로 검사결과를 비교 평가하는가?"
+    },
+    {
+      "field": "수혈의학",
+      "section": "수혈의학[공통] 질관리: 검사전후단계",
+      "subsection": "검사결과 보고",
+      "code": "40.405.040",
+      "type": "B",
+      "points": 16,
+      "question": "모든 검사에 대한 turnaround time (TAT)의 한계가 정해져 있고, 정기적인 검토를 하는가?"
+    },
+    {
+      "field": "요경검학",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "23.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "요경검학",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "23.301.420",
+      "type": "B",
+      "points": 16,
+      "question": "동일 검사에 대하여 서로 다른 방법이나 두 대 이상의 기기로 검사를 시행하는 경우 주기적으로 검사결과를 비교 평가하는가?"
+    },
+    {
+      "field": "요경검학",
+      "section": "질관리: 검사전후단계",
+      "subsection": "검사결과 보고",
+      "code": "23.405.040",
+      "type": "B",
+      "points": 16,
+      "question": "모든 검사에 대한 turnaround time (TAT)의 한계가 정해져 있고, 정기적인 검토를 하는가?"
+    },
+    {
+      "field": "유세포검사",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "60.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "유세포검사",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "60.301.420",
+      "type": "B",
+      "points": 16,
+      "question": "동일 검사에 대하여 서로 다른 방법이나 두 대 이상의 기기로 검사를 시행하는 경우 주기적으로 검사결과를 비교 평가하는가?"
+    },
+    {
+      "field": "유세포검사",
+      "section": "질관리: 검사전후단계",
+      "subsection": "검체결과 보고",
+      "code": "60.405.040",
+      "type": "B",
+      "points": 16,
+      "question": "모든 검사에 대한 turnaround time (TAT)의 한계가 정해져 있고, 정기적인 검토를 하는가?"
+    },
+    {
+      "field": "임상미생물",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "30.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "임상미생물",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "30.301.420",
+      "type": "B",
+      "points": 16,
+      "question": "동일 검사에 대하여 서로 다른 방법이나 두 대 이상의 기기로 검사를 시행하는 경우 주기적으로 검사결과를 비교 평가하는가?"
+    },
+    {
+      "field": "임상화학",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "21.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "임상화학",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "21.301.420",
+      "type": "B",
+      "points": 16,
+      "question": "동일 검사에 대하여 서로 다른 방법이나 두 대 이상의 기기로 검사를 시행하는 경우 주기적으로 검사결과를 비교 평가하는가?"
+    },
+    {
+      "field": "조직적합성검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "70.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외 부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "조직적합성검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "70.301.420",
+      "type": "B",
+      "points": 16,
+      "question": "동일 검사에 대하여 서로 다른방법이나 두 대 이상의 기기로 검사를 시행하는 경우 주 기적으로 검사결과를 비교 평가하는가?"
+    },
+    {
+      "field": "조직적합성검사",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "70.405.040",
+      "type": "B",
+      "points": 16,
+      "question": "모든 검사에 대한 turnaround time (TAT)의 한 계가 정해져 있고, 정기적인 검토를 하는가?"
+    },
+    {
+      "field": "종합검증",
+      "section": "질관리: 일반",
+      "subsection": "질관리 일반",
+      "code": "07.201.020",
+      "type": "B",
+      "points": 16,
+      "question": "검사실은 지속적 질향상 프로그램(continuous quality improvement program, CQI)이 있는가?"
+    },
+    {
+      "field": "종합검증",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "07.300.121",
+      "type": "R",
+      "points": 16,
+      "question": "검사실은 정확한 검사를 위하여 외부정도관리 프로그램을 올바르게 이용하고 있는가?"
+    },
+    {
+      "field": "종합검증",
+      "section": "인력",
+      "subsection": "전문의",
+      "code": "07.702.220",
+      "type": "B",
+      "points": 16,
+      "question": "진단검사의학과에 검사 업무량에 적정한 수의 진단검사의학과 전문의가 상근하고 있는가?"
+    },
+    {
+      "field": "진단면역",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "50.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외 부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "진단면역",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "50.301.420",
+      "type": "B",
+      "points": 16,
+      "question": "동일 검사에 대하여 서로 다른방법이나 두 대 이상의 기기로 검사를 시행하는 경우 주 기적으로 검사결과를 비교 평가하는가?"
+    },
+    {
+      "field": "진단면역",
+      "section": "심사범위",
+      "subsection": null,
+      "code": "50.405.040",
+      "type": "B",
+      "points": 16,
+      "question": "모든 검사에 대한 turnaround time (TAT)의 한 계가 정해져 있고, 정기적인 검토를 하는가?"
+    },
+    {
+      "field": "진단혈액",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "10.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "진단혈액",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리지침",
+      "code": "10.301.420",
+      "type": "B",
+      "points": 16,
+      "question": "동일 검사에 대하여 서로 다른 방법이나 두 대의 장비로 검사를 시행하는 경우 두 가지로 검사결과를 비교 평가하는가?"
+    },
+    {
+      "field": "진단혈액",
+      "section": "질관리: 검사전후단계",
+      "subsection": "검사결과 보고",
+      "code": "10.405.040",
+      "type": "B",
+      "points": 16,
+      "question": "모든 검사에 대한 turnaround time (TAT)의 한계가 정해져 있고, 정기적인 검토를 하는가?"
+    },
+    {
+      "field": "현장검사",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "08.300.120",
+      "type": "R",
+      "points": 16,
+      "question": "담당 진단검사의학과 전문의가 외부정도관리 분석 결과를 적극적으로 검토하는가?"
+    },
+    {
+      "field": "현장검사",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "08.300.201",
+      "type": "B",
+      "points": 16,
+      "question": "외부정도관리 프로그램에 참가하지 않는 현장검사 기기 또는 검사에 대하여 분석의 신뢰도를 알기 위한 대체 수행능력 평가를 실시하는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "질관리: 일반",
+      "subsection": "질관리 일반",
+      "code": "01.201.290",
+      "type": "B",
+      "points": 14,
+      "question": "검사실의 질을 측정할 수 있는 key indicators에 관하여 주기적으로 평가하는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "심사범위",
+      "subsection": "심사범위",
+      "code": "01.010.050",
+      "type": "B",
+      "points": 8,
+      "question": "검사실의 주요 변경사항을 진단검사의학재단으로 보고하는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "심사범위",
+      "subsection": "심사범위",
+      "code": "01.010.060",
+      "type": "B",
+      "points": 8,
+      "question": "유전자검사항목별 시행 검사실 자격 요건이 적절한가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "심사범위",
+      "subsection": "심사범위",
+      "code": "01.010.062",
+      "type": "B",
+      "points": 8,
+      "question": "생명윤리 및 안전에 관한 법률 제49조 1항의 규정에 따라 질병관리청에 신고된 유전자검사의 목적에 따라 검사를 실시하고 있는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "심사범위",
+      "subsection": "심사범위",
+      "code": "01.010.090",
+      "type": "B",
+      "points": 8,
+      "question": "지난번 심사에서 감점된 사항들을 개선한 증거가 있는가?"
+    },
+    {
+      "field": "검사실운영",
+      "section": "질관리: 검사단계",
+      "subsection": "정도관리 일반",
+      "code": "01.300.020",
+      "type": "B",
+      "points": 8,
+      "question": "국내 및 국외 외부정도관리 프로그램에 회원으로 가입하여 외부정도관리 프로그램에 참여하고 있는가?"
+    }
+  ]
+}

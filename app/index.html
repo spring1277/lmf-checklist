@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0b7d73" />
+  <title>LMF 인증심사 점검표 준비</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <button id="backBtn" class="icon-btn" hidden aria-label="뒤로">‹</button>
+    <div class="title-wrap">
+      <h1 id="appTitle">인증심사 점검표</h1>
+      <p id="appSub" class="sub">진단검사의학재단 · 연차별 지침서 준비</p>
+    </div>
+    <div class="header-actions">
+      <div class="year-toggle" id="yearToggle" role="tablist" aria-label="연도">
+        <button class="year-btn active" data-year="2026">2026</button>
+        <button class="year-btn" data-year="2025">2025</button>
+      </div>
+      <button id="searchBtn" class="icon-btn" aria-label="검색">🔍</button>
+      <button id="menuBtn" class="icon-btn" aria-label="메뉴">⋮</button>
+    </div>
+  </header>
+
+  <main id="view" class="view"></main>
+
+  <!-- Menu sheet -->
+  <div id="sheet" class="sheet" hidden>
+    <div class="sheet-backdrop" data-close></div>
+    <div class="sheet-panel">
+      <h3>메뉴</h3>
+      <button class="sheet-item" id="exportJsonBtn">📤 답안 내보내기 (JSON)</button>
+      <button class="sheet-item" id="exportHtmlBtn">🖨 답안 보고서 (인쇄/저장)</button>
+      <button class="sheet-item" id="syncBtn">☁️ 서버 답안 동기화</button>
+      <button class="sheet-item" id="importBtn">📥 답안 불러오기 (JSON)</button>
+      <input type="file" id="importFile" accept="application/json" hidden />
+      <button class="sheet-item" id="aiSettingsBtn">🤖 AI 초안 설정</button>
+      <button class="sheet-item danger" id="resetBtn">🗑 이 연도 답안 초기화</button>
+      <div class="sheet-meta">
+        <span id="storageInfo"></span>
+      </div>
+      <button class="sheet-close" data-close>닫기</button>
+    </div>
+  </div>
+
+  <!-- AI settings modal -->
+  <div id="aiModal" class="sheet" hidden>
+    <div class="sheet-backdrop" data-close></div>
+    <div class="sheet-panel">
+      <h3>🤖 AI 초안 설정</h3>
+      <p class="hint">AI 자동 초안은 별도 백엔드(또는 API)가 필요합니다. 비워두면 오프라인 <b>템플릿 초안</b>만 생성됩니다.</p>
+      <label class="fld">엔드포인트 URL
+        <input type="url" id="aiEndpoint" placeholder="https://내백엔드/draft" />
+      </label>
+      <label class="fld">API 키 (선택, 로컬에만 저장)
+        <input type="password" id="aiKey" placeholder="sk-..." />
+      </label>
+      <label class="fld">모델
+        <input type="text" id="aiModel" placeholder="claude-opus-4-8" />
+      </label>
+      <label class="fld">기관/검사실 정보 (초안에 반영)
+        <textarea id="aiContext" rows="3" placeholder="예: ○○대학교병원 진단검사의학과, ISO 15189 인증, 인력 12명 ..."></textarea>
+      </label>
+      <div class="row-btns">
+        <button class="btn primary" id="aiSaveBtn">저장</button>
+        <button class="btn" data-close>취소</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" hidden></div>
+
+  <script src="js/db.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
