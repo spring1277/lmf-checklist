@@ -668,13 +668,15 @@
     let total = 0, errors = 0;
     toast('답안 동기화 중…');
     let files = ['answers_draft.json','extra_수탁검사.json','extra_종합검증.json','extra_현장검사.json','extra_세포유전검사.json','answers_extra_part1.json','glass_answers.json'];
+    const nc = { cache: 'no-store' };
     try {
-      const mr = await fetch('data/enhanced/manifest.json');
+      const mr = await fetch('data/enhanced/manifest.json?v=' + Date.now(), nc);
       if (mr.ok) { const mj = await mr.json(); files = [...files, ...mj.files]; }
     } catch {}
     for (const f of files) {
       try {
-        const r = await fetch(f.startsWith('data/') ? f : 'data/' + f);
+        const url = (f.startsWith('data/') ? f : 'data/' + f) + '?v=' + Date.now();
+        const r = await fetch(url, nc);
         if (!r.ok) continue;
         const j = await r.json();
         const recs = j.answers || j;
