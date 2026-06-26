@@ -93,7 +93,7 @@
           "pdf": "data/pdf/2026/임상화학.pdf",
           "json": "data/checklists/2026_임상화학.json",
           "structured": true,
-          "itemCount": 41
+          "itemCount": 124
         },
         "2025": {
           "pdf": "data/pdf/2025/임상화학.pdf",
