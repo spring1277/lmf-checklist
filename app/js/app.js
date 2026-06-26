@@ -29,7 +29,7 @@
   function debounce(fn, ms) { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; }
   async function loadJson(path) {
     if (state.cache[path]) return state.cache[path];
-    const r = await fetch(path);
+    const r = await fetch(path + '?v=' + Date.now(), { cache: 'no-store' });
     if (!r.ok) throw new Error('load fail ' + path);
     const j = await r.json();
     state.cache[path] = j;
