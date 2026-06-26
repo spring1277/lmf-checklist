@@ -1,6 +1,6 @@
 /* Service worker: network-first for everything except PDFs.
    v5: shell files also network-first so code changes reflect on reload without bumping version. */
-const CACHE = 'lmf-checklist-v5';
+const CACHE = 'lmf-checklist-v6';
 const ICONS = ['./icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', (e) => {
