@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#2d6a4f">
+<title>교육·대입 파이프라인</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>🧭 교육·대입 파이프라인</h1>
+  <div id="childTabs" class="child-tabs"></div>
+</header>
+
+<nav id="mainNav">
+  <button data-tab="home" class="active">홈</button>
+  <button data-tab="career">진로</button>
+  <button data-tab="records">기록</button>
+  <button data-tab="roadmap">로드맵</button>
+  <button data-tab="admission">대입정보</button>
+  <button data-tab="library">자료실</button>
+  <button data-tab="settings">설정</button>
+</nav>
+
+<main id="content"></main>
+
+<footer>
+  <p>가족용 개인 도구 · 데이터는 이 기기(localStorage)에만 저장 · 지원 결정 전 반드시 대학 입학처 원문 재확인</p>
+</footer>
+
+<div id="modalOverlay" class="modal-overlay hidden">
+  <div id="modalBox" class="modal-box"></div>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

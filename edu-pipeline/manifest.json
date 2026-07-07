@@ -1,0 +1,13 @@
+{
+  "name": "교육·대입 파이프라인",
+  "short_name": "대입파이프라인",
+  "description": "가족용 진로·교육·대입 장기 로드맵 및 기록 도구",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f6f8f7",
+  "theme_color": "#2d6a4f",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
