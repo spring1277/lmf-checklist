@@ -1,41 +1,33 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ko">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#2d6a4f">
-<title>교육·대입 파이프라인</title>
-<link rel="manifest" href="manifest.json">
-<link rel="icon" href="icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="3;url=https://spring1277.github.io/edu-pipeline/">
+  <title>교육·대입 파이프라인이 이전되었습니다</title>
+  <style>
+    body { font-family: system-ui, "Malgun Gothic", sans-serif; max-width: 640px; margin: 15vh auto; padding: 24px; line-height: 1.7; color: #1b2a24; }
+    a { color: #2d6a4f; font-weight: 700; }
+  </style>
 </head>
 <body>
-<header>
-  <h1>🧭 교육·대입 파이프라인</h1>
-  <div id="childTabs" class="child-tabs"></div>
-</header>
-
-<nav id="mainNav">
-  <button data-tab="home" class="active">홈</button>
-  <button data-tab="career">진로</button>
-  <button data-tab="records">기록</button>
-  <button data-tab="roadmap">로드맵</button>
-  <button data-tab="admission">대입정보</button>
-  <button data-tab="library">자료실</button>
-  <button data-tab="settings">설정</button>
-</nav>
-
-<main id="content"></main>
-
-<footer>
-  <p>가족용 개인 도구 · 데이터는 이 기기(localStorage)에만 저장 · 지원 결정 전 반드시 대학 입학처 원문 재확인</p>
-</footer>
-
-<div id="modalOverlay" class="modal-overlay hidden">
-  <div id="modalBox" class="modal-box"></div>
-</div>
-
-<script src="data.js"></script>
-<script src="app.js"></script>
+  <h1>교육·대입 파이프라인이 이전되었습니다</h1>
+  <p>별도 저장소와 새 주소로 이동합니다.</p>
+  <p><a href="https://spring1277.github.io/edu-pipeline/">새 교육·대입 파이프라인 열기</a></p>
+  <script>
+    (async () => {
+      const target = 'https://spring1277.github.io/edu-pipeline/';
+      try {
+        if ('serviceWorker' in navigator) {
+          const registrations = await navigator.serviceWorker.getRegistrations();
+          await Promise.all(registrations
+            .filter(r => r.scope.includes('/lmf-checklist/edu-pipeline/'))
+            .map(r => r.unregister()));
+        }
+      } finally {
+        location.replace(target);
+      }
+    })();
+  </script>
 </body>
 </html>
