@@ -13,7 +13,7 @@
           "pdf": "data/pdf/2026/검사실운영.pdf",
           "json": "data/checklists/2026_검사실운영.json",
           "structured": true,
-          "itemCount": 176
+          "itemCount": 185
         },
         "2025": {
           "pdf": "data/pdf/2025/검사실운영.pdf",
@@ -45,7 +45,7 @@
           "pdf": "data/pdf/2026/현장검사.pdf",
           "json": "data/checklists/2026_현장검사.json",
           "structured": true,
-          "itemCount": 41
+          "itemCount": 42
         },
         "2025": {
           "pdf": "data/pdf/2025/현장검사.pdf",
@@ -77,7 +77,7 @@
           "pdf": "data/pdf/2026/진단혈액.pdf",
           "json": "data/checklists/2026_진단혈액.json",
           "structured": true,
-          "itemCount": 91
+          "itemCount": 147
         },
         "2025": {
           "pdf": "data/pdf/2025/진단혈액.pdf",
@@ -157,7 +157,7 @@
           "pdf": "data/pdf/2026/진단면역.pdf",
           "json": "data/checklists/2026_진단면역.json",
           "structured": true,
-          "itemCount": 64
+          "itemCount": 74
         },
         "2025": {
           "pdf": "data/pdf/2025/진단면역.pdf",
@@ -173,7 +173,7 @@
           "pdf": "data/pdf/2026/유세포검사.pdf",
           "json": "data/checklists/2026_유세포검사.json",
           "structured": true,
-          "itemCount": 100
+          "itemCount": 104
         },
         "2025": {
           "pdf": "data/pdf/2025/유세포검사.pdf",
@@ -189,7 +189,7 @@
           "pdf": "data/pdf/2026/조직적합성검사.pdf",
           "json": "data/checklists/2026_조직적합성검사.json",
           "structured": true,
-          "itemCount": 99
+          "itemCount": 108
         },
         "2025": {
           "pdf": "data/pdf/2025/조직적합성검사.pdf",
@@ -205,7 +205,7 @@
           "pdf": "data/pdf/2026/세포유전검사.pdf",
           "json": "data/checklists/2026_세포유전검사.json",
           "structured": true,
-          "itemCount": 113
+          "itemCount": 123
         },
         "2025": {
           "pdf": "data/pdf/2025/세포유전검사.pdf",
@@ -221,7 +221,7 @@
           "pdf": "data/pdf/2026/분자진단검사.pdf",
           "json": "data/checklists/2026_분자진단검사.json",
           "structured": true,
-          "itemCount": 121
+          "itemCount": 133
         },
         "2025": {
           "pdf": "data/pdf/2025/분자진단검사.pdf",
