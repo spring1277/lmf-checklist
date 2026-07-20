@@ -17,7 +17,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/검사실운영.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_검사실운영.json",
+          "itemCount": 184
         }
       }
     },
@@ -33,7 +35,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/종합검증.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_종합검증.json",
+          "itemCount": 19
         }
       }
     },
@@ -49,7 +53,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/현장검사.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_현장검사.json",
+          "itemCount": 42
         }
       }
     },
@@ -65,7 +71,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/수탁검사.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_수탁검사.json",
+          "itemCount": 51
         }
       }
     },
@@ -81,7 +89,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/진단혈액.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_진단혈액.json",
+          "itemCount": 147
         }
       }
     },
@@ -97,7 +107,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/임상화학.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_임상화학.json",
+          "itemCount": 114
         }
       }
     },
@@ -113,7 +125,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/요경검학.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_요경검학.json",
+          "itemCount": 77
         }
       }
     },
@@ -129,7 +143,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/임상미생물.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_임상미생물.json",
+          "itemCount": 176
         }
       }
     },
@@ -145,7 +161,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/수혈의학.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_수혈의학.json",
+          "itemCount": 283
         }
       }
     },
@@ -161,7 +179,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/진단면역.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_진단면역.json",
+          "itemCount": 74
         }
       }
     },
@@ -177,7 +197,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/유세포검사.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_유세포검사.json",
+          "itemCount": 94
         }
       }
     },
@@ -193,7 +215,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/조직적합성검사.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_조직적합성검사.json",
+          "itemCount": 108
         }
       }
     },
@@ -209,7 +233,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/세포유전검사.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_세포유전검사.json",
+          "itemCount": 123
         }
       }
     },
@@ -225,7 +251,9 @@
         },
         "2025": {
           "pdf": "data/pdf/2025/분자진단검사.pdf",
-          "structured": false
+          "structured": true,
+          "json": "data/checklists/2025_분자진단검사.json",
+          "itemCount": 133
         }
       }
     }
